@@ -1,13 +1,17 @@
-<html>
-  <head>
-    <title>escowles</title>
-    <link rel="stylesheet" href="asdf/css/main.css"/>
-  </head>
-  <body>
-    <h1>escowles</h1>
-    <ul>
-      <li><a href="/asdf/">asdf</a> (a blog)</li>
-      <li><a href="/tw.txt">twtxt</a> (my <a href="https://github.com/buckket/twtxt/">twtxt</a> file)</li>
-    </ul>
-  </body>
-</html>
+---
+layout: default
+title: asdf
+---
+
+<div class="home">
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>:
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
