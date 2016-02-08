@@ -4,3 +4,4 @@
 2016-02-08T07:24:06-05:00	hmm... my webhost lets me deploy a github repo as a website, but it takes a while to deploy
 2016-02-08T07:26:22-05:00	ugh, like 80 seconds for the tweet complaining about how long it takes
 2016-02-08T07:35:05-05:00	so, off to github pages for me
+2016-02-08T07:41:12-05:00	yeah, that worked like a charm, in about 2 sec
