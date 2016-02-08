@@ -3,3 +3,4 @@
 2016-02-08T07:21:26-05:00	@ruebot @cm_harlow @edsu i wonder if this shows up in your timelines before you follow me?
 2016-02-08T07:24:06-05:00	hmm... my webhost lets me deploy a github repo as a website, but it takes a while to deploy
 2016-02-08T07:26:22-05:00	ugh, like 80 seconds for the tweet complaining about how long it takes
+2016-02-08T07:35:05-05:00	so, off to github pages for me
