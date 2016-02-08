@@ -5,3 +5,4 @@
 2016-02-08T07:26:22-05:00	ugh, like 80 seconds for the tweet complaining about how long it takes
 2016-02-08T07:35:05-05:00	so, off to github pages for me
 2016-02-08T07:41:12-05:00	yeah, that worked like a charm, in about 2 sec
+2016-02-08T07:41:42-05:00	or even less, so in theory i could tweet a bunch of stuff
