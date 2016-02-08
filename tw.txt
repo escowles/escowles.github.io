@@ -9,3 +9,4 @@
 2016-02-08T07:42:11-05:00	and it wouldn't be weird or anything, just like hitting the submit button and it taking a second or two
 2016-02-08T09:31:35-05:00	but what about github pages' cdn? i wonder if my file will keep being updated...
 2016-02-08T11:35:10-05:00	n/m i was trying to setup a new jekyll site that was failing and preventing the twtxt updates, fixed that & now it's fine
+2016-02-08T11:43:53-05:00	i could post the same link in like 5 places and bug a bunch of the people over and over
