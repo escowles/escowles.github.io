@@ -19,3 +19,4 @@ github_username:  escowles
 
 # Build settings
 markdown: kramdown
+permalink: /asdf/:year/:month/:day/:title

@@ -2,7 +2,6 @@
 layout: post
 title:  first post
 date:   2016-02-08 08:45:58 -0500
-categories: twitter webhosts
 ---
 
 so, there was a [bit of an uproar](http://www.buzzfeed.com/alexkantrowitz/twitter-to-introduce-algorithmic-timeline-as-soon-as-next-we) on twitter over the weekend about the possibility of twitter switching to an algorithmic timeline (i.e., starting to muck with what shows up like facebook does).  a lot of people were upset about various issues, real and imagined.  and twitter eventually came out with a semi-denial to some of those.
