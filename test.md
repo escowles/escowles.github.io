@@ -1,3 +1,7 @@
+---
+title: test post
+layout: post
+---
 ## test
 
 this is a test
