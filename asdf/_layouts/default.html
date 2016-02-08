@@ -1,20 +1,16 @@
 <!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
+  <head>
+    <title>{{ page.title }}</title>
+  </head>
   <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
+    <nav>
+     <a href="/">escowles.github.io</a>
+    </nav>
+    <div class="container">
+    
+    {{ content }}
+    
+    </div><!-- /.container -->
   </body>
-
 </html>
