@@ -1,6 +1,6 @@
 title: asdf
 email: escowles@ticklefish.org
-#baseurl: "/asdf" # the subpath of your site, e.g. /blog
+baseurl: "/asdf"
 url: "https://escowles.github.io"
 twitter_username: escowles
 github_username:  escowles

@@ -2,10 +2,14 @@
 <html>
   <head>
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   </head>
   <body>
     <nav>
-     <a href="/">escowles.github.io</a>
+     <a href="/">escowles.github.io</a> -
+     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
     </nav>
     <div class="container">
     
