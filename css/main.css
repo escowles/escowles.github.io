@@ -36,3 +36,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+blockquote {
+    margin-left: 0;
+    padding-left: 1em;
+    border-left: solid #cccccc 2px;
+}
+
+hr {
+    margin: 2em;
+}
