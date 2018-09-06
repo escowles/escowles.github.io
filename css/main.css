@@ -44,5 +44,7 @@ blockquote {
 }
 
 hr {
-    margin: 2em;
+    margin: 2em 2em 2em 45%;
+    width: 10%;
+    text-align: center;
 }
