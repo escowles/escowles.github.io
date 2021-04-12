@@ -1,8 +1,13 @@
 title: escowles.github.io
 email: escowles@ticklefish.org
+author: esmé cowles
 url: "https://escowles.github.io"
-github_username:  escowles
+github_username: escowles
+description: "stuff"
 
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
