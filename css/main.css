@@ -48,3 +48,7 @@ hr {
     width: 10%;
     text-align: center;
 }
+
+ul.post-list li {
+  margin-bottom: 0.5em;
+}
