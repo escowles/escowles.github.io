@@ -50,9 +50,7 @@ maybe it means "i don't have a computer science degree"
 
 lots of developers don't have computer science degrees.  my degree is in
 creative writing.  some of the best developers i know have humanities degrees,
-or no degree at all.  we just posted some new job openings
-([1](https://main-princeton.icims.com/jobs/7267/digital-infrastructure-developer/job),
-[2](https://main-princeton.icims.com/jobs/7268/discovery-infrastructure-developer/job)).
+or no degree at all.  we just posted some new job openings, and
 one of them says nothing about a CS degree, and the other says that experience
 working as a developer is equivalent.  because a lot of people learn to write
 code in their spare time, or to get a job done, or as small part of some other
