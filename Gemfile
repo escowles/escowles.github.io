@@ -9,5 +9,5 @@ end
 
 gem "commonmarker", "~> 0.23.7"
 gem "kramdown", "~> 2.3.1"
-gem "nokogiri", "~> 1.13.10"
+gem "nokogiri", "~> 1.14.3"
 gem "webrick", "~> 1.7"
