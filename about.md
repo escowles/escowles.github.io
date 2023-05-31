@@ -9,7 +9,7 @@ date: 2022-10-29 17:21:59 -0500
 i'm esmé cowles and my day job is being an it manager at [princeton university
 library](https://library.princeton.edu/).
 
-orcid: <https://orcid.org/0000-0001-7074-1152>
+orcid: <https://orcid.org/0000-0001-7074-1152> \| [vcard](esme.vcf)
 
 
 ## current projects
