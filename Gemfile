@@ -8,7 +8,7 @@ group :jekyll_plugins do
 end
 
 gem "activesupport", "~> 7.0.4.3"
-gem "commonmarker", "~> 0.23.9"
+gem "commonmarker", "~> 0.23.10"
 gem "kramdown", "~> 2.3.1"
 gem "nokogiri", "~> 1.14.3"
 gem "webrick", "~> 1.7"
