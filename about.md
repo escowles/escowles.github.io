@@ -29,7 +29,7 @@ applications:
    * [pdc describe](https://github.com/pulibrary/pdc_describe/) / research data ingest platform, launching in late 2022 or early 2023
 
 ### samvera
-chair of the [samvera](https://samvera.atlassian.net/wiki/spaces/samvera/overview) board, focusing on the long-term sustainability of the samvera software and community.
+former chair of the [samvera](https://samvera.atlassian.net/wiki/spaces/samvera/overview) board, focusing on the long-term sustainability of the samvera software and community.
 
 
 ## older projects
