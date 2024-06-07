@@ -6,8 +6,10 @@ FN:Esmé Cowles
 ORG:Princeton University Library;
 TITLE:Assistant Director for Library Software Engineering
 EMAIL;type=INTERNET;type=WORK:escowles@princeton.edu
-EMAIL;type=INTERNET;type=HOME;escowles@ticklefish.org
-ADR;type=WORK;type=pref:;;Firestone Library\nOne Washington Road;Princeton;NJ;08544;United States
+EMAIL;type=INTERNET;type=HOME:escowles@ticklefish.org
+ADR:;;One Washington Road\nLibrary IT (B-18-M.9);Princeton;NJ;08544;
 item1.URL;type=pref:https://escowles.github.io/
 item1.X-ABLabel:_$!<HomePage>!$_
+item2.URL;type=pref:https://orcid.org/0000-0001-7074-1152
+item2.X-ABLabel:orcid
 END:VCARD

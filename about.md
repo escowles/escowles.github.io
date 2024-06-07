@@ -61,30 +61,30 @@ serving on the <a href="http://archivesspace.org">archivesspace</a> technical ad
 ### vra core oversight committee
 serving on the <a href="http://vraweb.org/about/committees/vra-core-oversight/">vra core oversight committee</a>, promoting development of the <a href="https://github.com/mixterj/VRA-RDF-Project">vra rdf vocabulary</a>.
 
+
+## really old projects
+most of this stuff isn't available any more or has been completely replaced by a different solution.
+
 ### dams development
 maintaining the current version of the ucsd library's dams repository, which combines <a href="http://www.w3.org/RDF">rdf</a> metadata implementing <a href="https://github.com/ucsdlib/dams/tree/master/ontology">our custom ontology</a> and massive file storage with flexible retrieval based on <a href="http://projectblacklight.org">blacklight</a>/ <a href="http://lucene.apache.org/solr/">solr</a>.  current focus is on developing a <a href="http://projecthydra.org/">hydra</a> front-end (<a href="http://library.ucsd.edu/dc/">dams pas</a>, <a href="http://github.com/ucsdlib/damspas">source code</a>) and implementing the <a href="http://fedora-commons.org/">fedora</a> 3 rest api FOR hydra compatability.
 
-### rci data curation
-member of the <a href="http://rci.ucsd.edu/services/data-curation.html">rci data curation team</a>, focusing on adapting the dams platform to meet the needs of diverse research data.
+### ucsd data curation
+member of the <a href="https://library.ucsd.edu/research-and-collections/research-data/index.html">ucsd data curation team</a>, focusing on adapting the dams platform to meet the needs of diverse research data.
 
 ### triplestore research
 installing, implenting xdre support for, and testing various triplestores, including <a href="http://agraph.franz.com/allegrograph/">allegrograph</a>, <a href="http://www.openrdf.org/">sesame</a>, <a href="http://www.mulgara.org/">mulgara</a>, <a href="http://jena.sourceforge.net/">jena</a>, <a href="http://4store.org/">4store</a>.  implemented custom triplestore in a relational database to address lack of solid production transaction support.
 
 ### development environment
-maintaining the it department's development environment, porting legacy applications to the new environment, and standardizing features for management (subversion, access control, versioning, monitoring, logging, etc.) across all of the applications currently being developed or maintained.  helping developers, troubleshooting problems, researching new tech, etc.
-
-
-## really old projects
-most of this stuff isn't available any more or has been completely replaced by a different solution.
+maintaining the ucsd it department's development environment, porting legacy applications to the new environment, and standardizing features for management (subversion, access control, versioning, monitoring, logging, etc.) across all of the applications currently being developed or maintained.  helping developers, troubleshooting problems, researching new tech, etc.
 
 ### ucai
-grant-funded project to convert six sets of metadata into a common format and machine-identify duplicates and hierarchical relationships.  <em>discontinued 2006, <a href="http://web.archive.org/web/20110109053622/http://gort.ucsd.edu/ucai/">archived website</a>.</em>
+grant-funded project to convert the metadata from six art image collections into a common format and machine-identify duplicates and hierarchical relationships.  <em>discontinued 2006, <a href="http://web.archive.org/web/20110109053622/http://gort.ucsd.edu/ucai/">archived website</a>.</em>
 
 ### sage
-the centerpiece of the libraries' website, a searchable and browseable database of electronic resources.  now labelled "selected e-resources".  uses java servlets to interface to an oracle database (with <a href="http://www.oracle.com/technology/products/text/index.html">oracletext</a> searching), and xsl for display.  <em>retired 2011, replaced by sfx and libguides.</em>
+the centerpiece of the ucsd libraries' website, a searchable and browseable database of electronic resources.  now labelled "selected e-resources".  uses java servlets to interface to an oracle database (with <a href="http://www.oracle.com/technology/products/text/index.html">oracletext</a> searching), and xsl for display.  <em>retired 2011, replaced by sfx and libguides.</em>
 
 ### rogersync
-synchronization between library system (via xml interface) and relational database. <em>retired 2011.</em>
+synchronization of e-journals between library system (via xml interface) and relational database. <em>retired 2011.</em>
 
 ### library hours
 application to allow different library locations to maintain a calendar to let users know what's open when. <em>retired 2010, replaced by cms-based hours site.</em>
@@ -93,7 +93,7 @@ application to allow different library locations to maintain a calendar to let u
 for the storage element of ucai, using an xml database for a sizeable (roughly 1.2 million documents, totalling around 5 gb) database.  looked at <a href="http://www.softwareag.com/tamino/">tamino</a>, <a href="http://www.teratext.com/">teratext</a>, <a href="http://xml.apache.org/xindice/">xindice</a>, and <a href="http://www.oracle.com/database/berkeley-db/index.html">db xml</a>.  eventually went with a directory structure of xml files and used <a href="http://lucene.apache.org/">lucene</a> for querying.
 
 ### e-reserves
-<a href="http://www.docutek.com/products/eres/index.html">docutek e-res</a> electronic reserves system.
+implementing the <a href="http://www.docutek.com/products/eres/index.html">docutek e-res</a> electronic reserves system.
 
 ### compass
 heavily-customized netscape compass search engine to search both local content (sage) and related pages spidered from external websites.
