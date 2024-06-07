@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "github-pages", "~> 228", group: :jekyll_plugins
+gem "github-pages", "~> 231", group: :jekyll_plugins
 gem "minima", "~> 2.5"
 
 group :jekyll_plugins do
@@ -7,8 +7,6 @@ group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.4.0"
 end
 
-gem "activesupport", "~> 7.0.4.3"
-gem "commonmarker", "~> 0.23.9"
-gem "kramdown", "~> 2.3.1"
-gem "nokogiri", "~> 1.14.3"
+gem "nokogiri", "~> 1.16.5"
+gem "rexml", ">= 3.2.7"
 gem "webrick", "~> 1.7"
