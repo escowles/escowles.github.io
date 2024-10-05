@@ -20,16 +20,28 @@ supervising three development teams at princeton, who develop and maintain our
 digital library, discovery, and digital scholarship applications. some of our key
 applications:
 * [orangelight](https://github.com/pulibrary/orangelight/) / blacklight catalog / <https://catalog.princeton.edu/>
+* [allsearch_api](https://github.com/pulibrary/allsearch_api) and [allsearch_frontend](https://github.com/pulibrary/allsearch_frontend) / bento search / <https://allsearch.princeton.edu/>
 * [pulfalight](https://github.com/pulibrary/pulfalight/) / arclight-based finding aids / <https://findingaids.princeton.edu/>
 * [pulmap](https://github.com/pulibrary/pulmap/) / geoblacklight maps portal / <https://maps.princeton.edu/>
 * [dpul](https://github.com/pulibrary/dpul/) / (digital pul) spotlight exhibits / <https://dpul.princeton.edu/>
 * [figgy](https://github.com/pulibrary/figgy/) / [valkyrie](https://github.com/samvera/valkyrie/)-based repository, a rewrite of [plum](https://github.com/pulibrary/plum)
 * princeton data commons (pdc)
    * [pdc discovery](https://github.com/pulibrary/pdc_discovery/) / research data discovery portal / <https://datacommons.princeton.edu/discovery/>
-   * [pdc describe](https://github.com/pulibrary/pdc_describe/) / research data ingest platform, launching in late 2022 or early 2023
+   * [pdc describe](https://github.com/pulibrary/pdc_describe/) / research data ingest platform / <https://datacommons.princeton.edu/describe/>
+* [tigerdata-app](https://github.com/pulibrary/tigerdata-app) / active data management dashboard, launching in late 2024
 
 ### samvera
 former chair of the [samvera](https://samvera.atlassian.net/wiki/spaces/samvera/overview) board, focusing on the long-term sustainability of the samvera software and community.
+
+### code4lib
+co-organizer of <https://2023.code4lib.org/> and <https://2025.code4lib.org/>
+
+### static sites
+getting rid of the cruft at princeton, mostly moving to
+[jekyll](https://jekyllrb.com/)/[collectionbuilder](https://collectionbuilder.github.io/)
+static sites, e.g. [cicognara-static](https://github.com/pulibrary/digital-cicognara-library/tree/main/apps/cicognara-static)
+and [davies project](https://github.com/pulibrary/davies_project/).
+also, the code4lib sites are also jekyll: [2023](https://github.com/code4lib/2023.code4lib.org/) and [2025](https://github.com/code4lib/2025.code4lib.org/)
 
 
 ## older projects
