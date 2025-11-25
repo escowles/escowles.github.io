@@ -30,9 +30,6 @@ applications:
    * [pdc describe](https://github.com/pulibrary/pdc_describe/) / research data ingest platform / <https://datacommons.princeton.edu/describe/>
 * [tigerdata-app](https://github.com/pulibrary/tigerdata-app) / active data management dashboard, launching in late 2024
 
-### samvera
-former chair of the [samvera](https://samvera.atlassian.net/wiki/spaces/samvera/overview) board, focusing on the long-term sustainability of the samvera software and community.
-
 ### code4lib
 co-organizer of <https://2023.code4lib.org/> and <https://2025.code4lib.org/>
 
@@ -47,13 +44,15 @@ also, the code4lib sites are also jekyll: [2023](https://github.com/code4lib/202
 ## older projects
 
 ### samvera/valkyrie
-participating in <a href="https://samvera.atlassian.net/wiki/spaces/samvera/overview">samvera</a> governannce and development, focusing on <a href="https://github.com/samvera/valkyrie">valkyrie</a>.
+former chair of the [samvera](https://samvera.atlassian.net/wiki/spaces/samvera/overview) board, focusing on the long-term sustainability of the samvera software and community.
+
+have participated in various roles since 2012, including governance, event planning, data modeling, development — most recently focusing on <a href="https://github.com/samvera/valkyrie">valkyrie</a>.
 
 ### application development team / digital repository and discovery services
 managing the application development team at <a href="http://library.princeton.edu/">princeton university library</a>, working on our samvera/blacklight/spotlight/geoblacklight applications.
 
 ### digital cicognara
-the <a href="http://cicognara.org/">digital cicognara library</a>, a digital reconstruction of a foundational art history library using blacklight and iiif, in partnership with preeminent libraries across the us and europe.
+the <a href="http://cicognara.org/">digital cicognara library</a>, a digital reconstruction of a foundational art history library using blacklight and iiif, in partnership with preeminent libraries across the us and europe. previously a rails app, now rewritten in jekyll.
 
 ### fedora api specification
 editor of the <a href="https://fedora.info/spec/">fedora api specification</a>, an effort to codify the <a href="http://fedorarepository.org/">fedora</a> rest api, align more closely with existing web standards, and allow for multiple implementations to serve different needs.
