@@ -12,7 +12,15 @@ library](https://library.princeton.edu/).
 orcid: <https://orcid.org/0000-0001-7074-1152> \| [vcard](esme.vcf)
 
 
-## current projects
+## what i'm interested in
+
+cooking, baking, brewing, soap-making, laser-cutting, and the like:
+* my current cookbook: [recipes](https://escowles.tfsh.us/recipes/)
+* archive of [knittles &amp; beer](/knittles/), a blog about knitting, brewing, and 
+  many releated things (2010-2020)
+
+
+## work projects
 
 ### princeton university library it
 
